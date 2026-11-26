@@ -1,0 +1,13 @@
+/*
+Theme Name: Zak
+Theme URI: https://github.com/iShowkot/zak
+Author: Showkot Shawon
+Author URI: https://showkotshawon.com
+Description: Hand-coded theme for ishratzakia.com, a live wedding painter. No page builder, no external dependencies.
+Version: 0.1.0
+Requires at least: 6.5
+Requires PHP: 8.0
+License: GPL-2.0-or-later
+Text Domain: zak
+*/
+/* Styles live in assets/css/base.css so they can be versioned and cached. */
